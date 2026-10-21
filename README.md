@@ -1,6 +1,6 @@
 # Prompty pre školy
 
-Vitajte v zbierke promptov pre učiteľov a školy. Nájdete tu jednoduché zadania, ktoré vám pomôžu pripraviť materiály na vyučovanie pomocou nástrojov Microsoft 365 Copilot.
+Vitajte v zbierke promptov pre učiteľov a školy. Nájdete tu jednoduché zadania, ktoré vám pomôžu pripraviť materiály na vyučovanie pomocou nástrojov Microsoft 365 Copilot, ChatGPT alebo Gemini.
 
 ## Ako použiť prompt
 
