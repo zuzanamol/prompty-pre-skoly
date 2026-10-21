@@ -1,5 +1,11 @@
 # Názov promptu
 
+## Uloženie promptu a obrázkov
+
+Ulož tento súbor priamo do priečinka príslušného nástroja (`prompty/copilot-chat`, `prompty/excel`, `prompty/powerpoint` alebo `prompty/word`), nie do podpriečinka. Názov súboru vytvor z názvu promptu malými písmenami, bez diakritiky a so slovami oddelenými pomlčkou, napríklad `interaktivne-srdce.md`.
+
+Obrázky a náhľady ukladaj do podpriečinka `obrazky` v priečinku nástroja, napríklad `prompty/powerpoint/obrazky`.
+
 ## Video ukážka
 
 Doplň odkaz na video alebo napíš, že video zatiaľ nie je k dispozícii.
