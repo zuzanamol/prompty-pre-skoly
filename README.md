@@ -13,10 +13,8 @@ Pred použitím si výsledok skontrolujte a prispôsobte. Do promptov nevkladajt
 
 ## Prompty podľa nástroja
 
-- [PowerPoint – Prezentácia o kolobehu vody](prompty/powerpoint/README.md)
-- [Word – Pracovný list na mieru](prompty/word/README.md)
-- [Excel – Prehľad čitateľského denníka](prompty/excel/README.md)
-- [Copilot Chat – Nápady na hodinu](prompty/copilot-chat/README.md)
+- [PowerPoint – interaktívny model bijúceho srdca](prompty/powerpoint/interaktivne-srdce.md)
+- [Copilot Chat – Analýza používania Copilota](prompty/copilot-chat/analyza-pouzivania-copilota.md)
 
 ## Autorka
 
