@@ -14,6 +14,7 @@ Pred použitím si výsledok skontrolujte a prispôsobte. Do promptov nevkladajt
 ## Prompty podľa nástroja
 
 - [PowerPoint – interaktívny model bijúceho srdca](prompty/powerpoint/interaktivne-srdce.md)
+- [PowerPoint – transformácia motýľa](prompty/powerpoint/transformacia-motyla.md)
 - [Copilot Chat – Analýza používania Copilota](prompty/copilot-chat/analyza-pouzivania-copilota.md)
 
 ## Autorka
