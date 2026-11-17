@@ -15,6 +15,7 @@ Pred použitím si výsledok skontrolujte a prispôsobte. Do promptov nevkladajt
 
 - [PowerPoint – Ako bude vyzerať vaša trieda?](prompty/powerpoint/skolska-trieda.md)
 - [PowerPoint – interaktívny model bijúceho srdca](prompty/powerpoint/interaktivne-srdce.md)
+- [PowerPoint – porovnanie modelov v Copilotovi](prompty/powerpoint/porovnanie-modelov-copilot.md)
 - [PowerPoint – Ako funguje štvortaktný motor](prompty/powerpoint/stvortaktny-zazihovy-motor.md)
 - [PowerPoint – transformácia motýľa](prompty/powerpoint/transformacia-motyla.md)
 - [Copilot Chat – Analýza používania Copilota](prompty/copilot-chat/analyza-pouzivania-copilota.md)
