@@ -16,6 +16,7 @@ Pred použitím si výsledok skontrolujte a prispôsobte. Do promptov nevkladajt
 ### Microsoft Forms
 
 - [Kvíz – Vlastnosti kvapalín a plynov](prompty/forms/kviz-vlastnosti-kvapalin-a-plynov.md)
+- [Diferencovaný kvíz – Hustota kvapalín](prompty/forms/kviz-hustota-kvapalin-diferencovany.md)
 
 ### PowerPoint
 
