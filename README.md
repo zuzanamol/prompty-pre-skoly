@@ -15,6 +15,7 @@ Pred použitím si výsledok skontrolujte a prispôsobte. Do promptov nevkladajt
 
 ### Microsoft Forms
 
+- [Univerzálny prompt pre formulár alebo kvíz](prompty/forms/univerzalny-formular-kviz.md)
 - [Kvíz – Vlastnosti kvapalín a plynov](prompty/forms/kviz-vlastnosti-kvapalin-a-plynov.md)
 
 ### PowerPoint
