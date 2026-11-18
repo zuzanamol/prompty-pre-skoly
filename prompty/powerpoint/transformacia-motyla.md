@@ -54,4 +54,5 @@ Prompt je inšpirovaný príkladom [Interactive Slider: Butterfly Before/After R
 
 ## Autor
 
-Preklad a úprava promptu: Zuzka Molčanová, EDU špecialistka, Aricoma
+Zuzka Molčanová, Učiteľka Zuzka, www.ucitelkazuzka.sk
+EDU špecialistka, Aricoma

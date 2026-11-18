@@ -108,7 +108,8 @@ Nepoužívaj prázdny zástupný obrázok.
 Slovenský preklad a úprava promptu „The Heart“ z repozitára [MikeTholfsen/Samples](https://github.com/MikeTholfsen/Samples/tree/main/samples/powerpoint-interactivity/the-heart).
 
 ## Autor
-Preklad a príklady použitia: Zuzka Molčanová, EDU špecialistka, Aricoma
+Zuzka Molčanová, Učiteľka Zuzka, www.ucitelkazuzka.sk
+EDU špecialistka, Aricoma
 
 ## História verzií
 | Verzia | Dátum | Poznámka |

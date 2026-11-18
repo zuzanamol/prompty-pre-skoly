@@ -80,7 +80,8 @@ Rozloženie: Všetok text musí byť čitateľný na jednej snímke s pomerom st
 
 ## Autor
 
-Návrh promptu: Zuzka Molčanová, EDU špecialistka, Aricoma
+Zuzka Molčanová, Učiteľka Zuzka, www.ucitelkazuzka.sk
+EDU špecialistka, Aricoma
 
 ## História verzií
 

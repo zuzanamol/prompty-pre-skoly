@@ -59,7 +59,8 @@ Rozloženie a text: Ovládanie pohľadu umiestni vedľa alebo nad motor, štyri 
 
 ## Autor
 
-Návrh promptu: Zuzka Molčanová, EDU špecialistka, Aricoma
+Zuzka Molčanová, Učiteľka Zuzka, www.ucitelkazuzka.sk
+EDU špecialistka, Aricoma
 
 ## História verzií
 

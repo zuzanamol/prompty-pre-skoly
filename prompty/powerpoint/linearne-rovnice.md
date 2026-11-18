@@ -66,7 +66,8 @@ Rozloženie: Použi čistý, priateľský a prehľadný vzhľad vhodný na vyuč
 
 ## Autor
 
-Návrh promptu: Zuzka Molčanová, EDU špecialistka, Aricoma
+Zuzka Molčanová, Učiteľka Zuzka, www.ucitelkazuzka.sk
+EDU špecialistka, Aricoma
 
 ## História verzií
 

@@ -58,7 +58,8 @@ Píš po slovensky, stručne a zrozumiteľne. Oddeľ zistenia z dát od predpokl
 Pri údajoch o zamestnancoch dodržiavajte pravidlá ochrany osobných údajov vašej inštitúcie. Výsledok slúži na plánovanie podpory, nie na hodnotenie jednotlivcov.
 
 ## Autor
-Zuzka Molčanová, EDU špecialistka, Aricoma
+Zuzka Molčanová, Učiteľka Zuzka, www.ucitelkazuzka.sk
+EDU špecialistka, Aricoma
 
 ## História verzií
 | Verzia | Dátum | Poznámka |

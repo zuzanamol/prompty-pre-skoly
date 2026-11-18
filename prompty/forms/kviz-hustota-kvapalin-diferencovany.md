@@ -56,7 +56,8 @@ Pred odovzdaním skontroluj, že každá sekcia obsahuje [počet] otázok, všet
 
 ## Autor
 
-Zuzka Molčanová, EDU špecialistka, Aricoma
+Zuzka Molčanová, Učiteľka Zuzka, www.ucitelkazuzka.sk
+EDU špecialistka, Aricoma
 
 ## História verzií
 

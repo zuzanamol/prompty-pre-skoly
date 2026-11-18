@@ -49,7 +49,8 @@ Rozloženie: Snímka je prispôsobená pomeru strán 16 : 9. Nadpis, tlačidlá,
 
 ## Autor
 
-Návrh promptu: Zuzka Molčanová, EDU špecialistka, Aricoma
+Zuzka Molčanová, Učiteľka Zuzka, www.ucitelkazuzka.sk
+EDU špecialistka, Aricoma
 
 ## História verzií
 

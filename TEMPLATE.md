@@ -31,7 +31,8 @@ Uveď potrebný nástroj, materiály alebo informácie.
 
 ## Autor
 
-Zuzka Molčanová, EDU špecialistka, Aricoma
+Zuzka Molčanová, Učiteľka Zuzka, www.ucitelkazuzka.sk
+EDU špecialistka, Aricoma
 
 ## História verzií
 

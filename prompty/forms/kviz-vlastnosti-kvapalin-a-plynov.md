@@ -44,7 +44,8 @@ Pred odovzdaním skontroluj, že kvíz obsahuje presne 6 otázok, každá má 4 
 
 ## Autor
 
-Zuzka Molčanová, EDU špecialistka, Aricoma
+Zuzka Molčanová, Učiteľka Zuzka, www.ucitelkazuzka.sk
+EDU špecialistka, Aricoma
 
 ## História verzií
 

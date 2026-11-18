@@ -82,7 +82,8 @@ Ak niektoré nastavenie Microsoft Forms alebo požadovaný typ otázky nie je do
 
 ## Autor
 
-Zuzka Molčanová, EDU špecialistka, Aricoma
+Zuzka Molčanová, Učiteľka Zuzka, www.ucitelkazuzka.sk
+EDU špecialistka, Aricoma
 
 ## História verzií
 

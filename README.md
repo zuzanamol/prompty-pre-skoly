@@ -34,8 +34,8 @@ Pred použitím si výsledok skontrolujte a prispôsobte. Do promptov nevkladajt
 
 ## Autorka
 
-**Zuzka Molčanová**, EDU špecialistka, Aricoma
-[www.ucitelkazuzka.sk](https://www.ucitelkazuzka.sk)
+Zuzka Molčanová, Učiteľka Zuzka, www.ucitelkazuzka.sk
+EDU špecialistka, Aricoma
 
 ## Licencia
 
