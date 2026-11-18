@@ -13,13 +13,22 @@ Pred použitím si výsledok skontrolujte a prispôsobte. Do promptov nevkladajt
 
 ## Prompty podľa nástroja
 
-- [PowerPoint – Ako bude vyzerať vaša trieda?](prompty/powerpoint/skolska-trieda.md)
-- [PowerPoint – interaktívny model bijúceho srdca](prompty/powerpoint/interaktivne-srdce.md)
-- [PowerPoint – riešime lineárne rovnice](prompty/powerpoint/linearne-rovnice.md)
-- [PowerPoint – porovnanie modelov v Copilotovi](prompty/powerpoint/porovnanie-modelov-copilot.md)
-- [PowerPoint – Ako funguje štvortaktný motor](prompty/powerpoint/stvortaktny-zazihovy-motor.md)
-- [PowerPoint – transformácia motýľa](prompty/powerpoint/transformacia-motyla.md)
-- [Copilot Chat – Analýza používania Copilota](prompty/copilot-chat/analyza-pouzivania-copilota.md)
+### Microsoft Forms
+
+- [Kvíz – Vlastnosti kvapalín a plynov](prompty/forms/kviz-vlastnosti-kvapalin-a-plynov.md)
+
+### PowerPoint
+
+- [Ako bude vyzerať vaša trieda?](prompty/powerpoint/skolska-trieda.md)
+- [Interaktívny model bijúceho srdca](prompty/powerpoint/interaktivne-srdce.md)
+- [Riešime lineárne rovnice](prompty/powerpoint/linearne-rovnice.md)
+- [Porovnanie modelov v Copilotovi](prompty/powerpoint/porovnanie-modelov-copilot.md)
+- [Ako funguje štvortaktný motor](prompty/powerpoint/stvortaktny-zazihovy-motor.md)
+- [Transformácia motýľa](prompty/powerpoint/transformacia-motyla.md)
+
+### Copilot Chat
+
+- [Analýza používania Copilota](prompty/copilot-chat/analyza-pouzivania-copilota.md)
 
 ## Autorka
 
