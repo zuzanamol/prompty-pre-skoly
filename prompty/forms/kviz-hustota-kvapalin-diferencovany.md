@@ -15,7 +15,7 @@ Všetky tri sekcie musia overovať rovnaký vzdelávací cieľ: porozumenie pojm
 
 A – Podpora
 - používaj jednoduchší jazyk a kratšie zadania,
-- poskytnúť viac opory priamo v otázke, napríklad pripomenutie dôležitých údajov alebo znázornenie situácie,
+- poskytuj viac opory priamo v otázke, napríklad pripomenutie dôležitých údajov alebo znázornenie situácie,
 - zameraj sa prevažne na porozumenie a základnú aplikáciu pojmu hustota.
 
 B – Samostatná práca
