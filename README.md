@@ -17,6 +17,7 @@ Pred použitím si výsledok skontrolujte a prispôsobte. Do promptov nevkladajt
 
 - [Univerzálny prompt pre formulár alebo kvíz](prompty/forms/univerzalny-formular-kviz.md)
 - [Kvíz – Vlastnosti kvapalín a plynov](prompty/forms/kviz-vlastnosti-kvapalin-a-plynov.md)
+- [Diferencovaný kvíz – Hustota kvapalín](prompty/forms/kviz-hustota-kvapalin-diferencovany.md)
 
 ### PowerPoint
 
